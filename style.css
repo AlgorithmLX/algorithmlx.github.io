@@ -1,0 +1,9 @@
+body {
+    background: gray;
+}
+
+button {
+   vertical-align: middle;
+   line-height: 90px;
+}
+

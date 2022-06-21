@@ -1,15 +1,118 @@
 body {
-    background: gray;
+    position: relative;
+    width: 1208px;
+    height: 688px;
+
+    background: rgba(255, 255, 255, 0.5);
 }
 
-button {
-   line-height: 90px;
-   margin: 0 auto;
-   display: block;
-}
+/*English Button*/
 
 button {
-    line-height: 150px;
-    margin: 0 auto;
-    display: block;
- }
+    position: absolute;
+    width: 282px;
+    height: 91px;
+    left: 0px;
+    top: 192px;
+
+    background: #CDCDCD;
+    border-radius: 12px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+        font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 56px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+/*Russian Button*/
+
+button {
+    position: absolute;
+    width: 282px;
+    height: 91px;
+    left: 926px;
+    top: 192px;
+
+    background: #CDCDCD;
+    border-radius: 18px;
+
+    position: absolute;
+    width: 282px;
+    height: 91px;
+    left: 0px;
+    top: 0px;
+
+    background: #CDCDCD;
+    border-radius: 12px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 56px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+h1 {
+    position: absolute;
+    width: 243px;
+    height: 75px;
+    left: 434px;
+    top: 25px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+h2 {
+    position: absolute;
+    width: 133px;
+    height: 15px;
+    left: 1075px;
+    top: 666px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 10px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}

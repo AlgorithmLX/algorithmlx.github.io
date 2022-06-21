@@ -15,7 +15,7 @@ button {
     border-radius: 12px;
 }
 
-h1 {
+div {
     position: absolute;
     left: 0%;
     right: 0%;
@@ -44,7 +44,7 @@ button {
     border-radius: 12px;
 }
 
-h1 {
+div {
     position: absolute;
     left: 0%;
     right: 0%;
@@ -82,7 +82,7 @@ h1 {
     color: #000000;
 }
 
-h2 {
+div {
     position: absolute;
     width: 133px;
     height: 15px;
@@ -100,7 +100,7 @@ h2 {
     color: #000000;
 } 
 
-h3 {
+h2 {
     position: absolute;
     width: 195px;
     height: 59px;

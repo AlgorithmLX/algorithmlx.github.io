@@ -7,21 +7,21 @@ body {
 }
 
 button {
-    position: absolute;
-    width: 280px;
-    height: 90px;
-    left: 0px;
-    top: 192px;
+    position: relative;
+    width: 282px;
+    height: 91px;
 
     background: #CDCDCD;
     border-radius: 12px;
+}
 
+h1 {
     position: absolute;
     left: 0%;
     right: 0%;
     top: 0%;
     bottom: 0%;
-    
+
     font-family: 'Inter';
     font-style: italic;
     font-weight: 100;
@@ -36,15 +36,15 @@ button {
 }
 
 button {
-    position: absolute;
-    width: 280px;
-    height: 90px;
-    left: 926px;
-    top: 192px;
+    position: relative;
+    width: 282px;
+    height: 91px;
 
     background: #CDCDCD;
     border-radius: 12px;
+}
 
+h1 {
     position: absolute;
     left: 0%;
     right: 0%;
@@ -68,9 +68,7 @@ h1 {
     position: absolute;
     width: 251px;
     height: 55px;
-    left: 446px;
-    top: 35px;
-
+    
     font-family: 'Inter';
     font-style: italic;
     font-weight: 100;
@@ -80,7 +78,7 @@ h1 {
     display: flex;
     align-items: center;
     text-align: center;
-
+    
     color: #000000;
 }
 
@@ -88,9 +86,7 @@ h2 {
     position: absolute;
     width: 133px;
     height: 15px;
-    left: 1075px;
-    top: 666px;
-
+    
     font-family: 'Inter';
     font-style: italic;
     font-weight: 100;
@@ -100,7 +96,7 @@ h2 {
     display: flex;
     align-items: center;
     text-align: center;
-
+    
     color: #000000;
 } 
 
@@ -108,15 +104,13 @@ h3 {
     position: absolute;
     width: 195px;
     height: 59px;
-    left: 474px;
-    top: 77px;
     
     font-family: 'Inter';
     font-style: italic;
     font-weight: 100;
     font-size: 40px;
     line-height: 15px;
-    /* or 38% */
+
     display: flex;
     align-items: center;
     text-align: center;
